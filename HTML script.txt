@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	
+		<title>starter pack</title>
+		
+		<h1></h1>
+	
+	</head>
+	
+	<body>
+	
+	<script>
+// please credit me fo this pack because i made it i hope you liked this code lol
+
+
+	</script>
+	
+	</body>
+	
+</html>
